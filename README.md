@@ -1,4 +1,11 @@
-# dicer
+
+# Roulette Game Blockchain
+
+Demo gambling game, built on Blockchain.
+
+Roulette of: https://github.com/laFreeFall/csgoworld-vue
+
+
 
 ## Project setup
 ```
