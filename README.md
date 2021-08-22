@@ -1,4 +1,7 @@
-# dicer
+
+# Roulette Game Blockchain
+Demo gambling game, built on Blockchain.
+
 
 ## Project setup
 ```
